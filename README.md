@@ -113,12 +113,6 @@ Evil Coders exists for **education and defence**. Practise only on systems you o
 ### 📞 Phone
 [+91 83109 87954](tel:+918310987954)
 
-### 🧑‍💻 Founder's Profiles
-- [TryHackMe](https://tryhackme.com/p/RadheKarn)
-- [Medium](https://medium.com/@pr9826163)
-- [X](https://x.com/PraveenRat98609)
-
----
 
 <div align="center">
 
